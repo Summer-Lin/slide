@@ -1,6 +1,6 @@
 ### jQuery移动端轮播图，点击放大手动轮播，点击遮罩层消失，缩小回原样
 ### 动态图
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/Summer-Lin/slide/blob/master/images/GIF.gif)
 
 ### 引用方法
 
